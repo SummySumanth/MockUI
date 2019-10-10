@@ -1,6 +1,6 @@
-View Directly here - http://smallcasemockui.surge.sh/
+# View Directly here - http://smallcasemockui.surge.sh/
 
-To run
+## To run
 
 npm i
 
